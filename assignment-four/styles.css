@@ -1,0 +1,53 @@
+body{
+    background-color: #ff9a34
+} 
+
+.type1{
+   font-family: "Girassol", serif; 
+    font-weight: 900
+}
+
+.type2 {
+    font-family: "Montserrat", sans-serif; 
+    font-weight:800
+}
+
+.type3 {
+    font-family: "Barriecito", system-ui;
+}
+
+.type4 {
+     font-family: "Zalando Sans Expanded", sans-serif;
+}
+
+.type5 {
+    font-family: "Google Sans Code", monospace;
+    letter-spacing: -3px
+}
+
+.type6 {
+   font-family: "DM Serif Text", serif; 
+    letter-spacing: 5px
+    
+}
+.type7 {
+    font-family: "Creepster", system-ui;
+}
+
+.type8 {
+     font-family: "Nosifer", sans-serif;
+    line-height: 4; 
+    text-align-last: center; 
+    font-size: 2em
+}
+
+.type9 {
+     font-family: "Amarante", serif;
+    text-align: center
+}
+
+.type10 {
+     font-family: "Amarante", serif;
+    text-align-last: center;
+}
+
