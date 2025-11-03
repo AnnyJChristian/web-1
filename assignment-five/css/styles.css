@@ -1,0 +1,49 @@
+.yellow{
+    background-color: yellow;
+    height: 750px;
+    width: 550px;
+    border: 2px solid red;
+    border-radius: 10px
+    
+}
+
+.large-box{
+   height: 460px;
+    width: 460px;
+    background-color: green; 
+    border: 5px solid red;
+    border-radius: 15px;
+    margin: 30px auto 
+}
+
+.aqua{
+    height: 100px;
+    width: 100px; 
+    background-color: aqua; 
+    border-radius: 10px; 
+    margin: 30px auto
+}
+
+.blue{
+    height: 200px;
+    width: 150px; 
+    background-color: blue; 
+    border-radius: 10px; 
+    margin: 30px
+} 
+
+.orange{
+    height: 60px;
+    width: 150px; 
+    background-color: orange; 
+    border-radius: 10px; 
+    margin: 30px auto;
+} 
+
+.red{
+    height: 200px;
+    width: 150px; 
+    background-color: red; 
+    border-radius: 10px; 
+    margin: 30px 40px; 
+}
