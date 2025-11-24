@@ -1,0 +1,51 @@
+.background {
+    background-color: lightpink;
+    height: 1700px;
+    width: 500px;
+    padding:2px;
+}
+
+.pic1 {
+    background-image: url("dog.jpg");
+    height: 275px;
+    width: 450px;
+    margin: 50px auto;
+} 
+
+.pic2 {
+    background-image: url("dog.jpg");
+    background-size: 200px 90px;
+    height: 275px;
+    width: 450px; 
+    margin: 50px auto; 
+    
+} 
+
+.pic3 {
+    background-color: skyblue;
+    height: 275px;
+    width: 450px; 
+    background-image: url("dog.jpg");
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center right;
+    margin: 50px auto;
+} 
+
+.pic4 {
+    height: 275px; 
+    width: 450px;
+    display: block;
+    margin: 50px auto;
+    
+}
+
+.pic5 {
+    background-color: skyblue;
+    height: 275px;
+    width:450px;
+    object-fit: contain;
+    object-position: center bottom;
+    display: block; 
+    margin: 50px auto;
+} 
