@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+} 
+
+.logo{
+    padding: 8px 20px;
+    height: 30px;
+}
+
+.nav-bar{
+    float: right;
+    padding: 10px 45px;
+}
+
+.nav-bar a{
+    font-size: 12px;
+    padding-left: 16px; 
+    text-decoration: none;
+    font-family: "Cormorant Garamond", serif;
+}
+
+
+
+
+h2{
+    font-size: 30px;
+    color: #194470; 
+    font-family: "Cormorant Garamond", serif;
+    
+} 
+
+h3{
+    font-size: 20px;
+    color: #194470; 
+    margin-bottom: 10px; 
+    font-family: "Cormorant Garamond", serif;
+} 
+
+p{
+    font-size: 14px; 
+}
+
+.hero{
+    background-image: url(thornbloom-website-4/images/banner-img.jpg);
+    background-size: cover;
+    background-position: bottom;
+    padding:100px 15px;
+    text-align-last: center;
+    color: #ffffff;
+    
+} 
+
+.button{
+    background-color: #194470;
+    text-decoration: none;
+    padding: 8px 12px; 
+    display: inline-block;
+    font-size: 12px;
+        
+} 
+
+.welcome{
+    text-align:center;
+    color: #194470; 
+    padding: 20px;
+}
+
+.intro{
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 31px; 
+    
+}
+
+.button2and3{
+    text-align: center;
+    padding: 20px;
+    font-family: "Cormorant Garamond", serif;
+} 
+
+.about{
+    display: inline-block;
+    color: #ffffff; 
+    background-color:#194470; 
+    padding: 8px 18px;
+    text-decoration: none;
+    
+}
+
+.shop{
+    background-color: #ffffff;
+    color: #194470;
+    padding: 5px 12px;
+    border: solid;
+}
+
+.first{
+    padding-top: 80px; 
+    margin-bottom: 20px; 
+    clear: both;
+}
+
+.firstpic{
+     float:left; 
+    height:200px;
+    width: 300px;
+    margin-left: 175px;
+    
+}
+
+
+.first-text{
+    float: right;
+    width: 30%;
+    text-align: right;
+    margin-right: 175px;
+    
+} 
+
+.second{
+    padding-top: 40px;
+    clear: both;
+}
+
+.pic2{
+    float: right;
+    width: 300px;
+    height: 200px; 
+    margin-right: 175px; 
+    
+} 
+
+.second-text{
+    float: left;
+    width: 30%;
+    margin-left: 175px
+} 
+
